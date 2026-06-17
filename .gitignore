@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # 模型权重和训练日志
-*.pth
+# *.pth
 *.pt
 weights/
 runs/
