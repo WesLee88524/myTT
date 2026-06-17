@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 模型权重和训练日志
+*.pth
+*.pt
+weights/
+runs/
+logs/
+
+# 避免上传大型数据集
+datasets/
+MOT17/
+DanceTrack/
+
+# 环境配置
+.env
