@@ -10,7 +10,7 @@ runs/
 logs/
 
 # 避免上传大型数据集
-datasets/
+# datasets/
 MOT17/
 DanceTrack/
 
